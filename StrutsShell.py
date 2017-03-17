@@ -20,8 +20,6 @@ def arguments():
   parser.add_argument('-d','--debug', action='store_true', help='show debugging info')
   parser.add_argument('-u','--url', help='Apache Struts vulnerable URL (i.e.: http://www.example.com/test/login.action)')
   args = parser.parse_args()
-  # ARGUMENT CLEANUP
-  # At least ONE input source
   debug = args.debug
   if not args.url:
     print errorstring,
