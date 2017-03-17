@@ -81,9 +81,8 @@ You can check the full list of options at any time with:
 $ ./StrutsShell -h
 ```
 ## Example Screenshot
-```
 ![Alt text](https://raw.githubusercontent.com/falcon-lnhg/StrutsShell/master/screenshot.jpg "StrutsShell - Example Screenshot")
-``` 
+
 ## Developer Team
 
 ### [LowNoiseHG] (http://www.lownoisehg.org):
