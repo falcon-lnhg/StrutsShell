@@ -82,7 +82,7 @@ $ ./StrutsShell -h
 ```
 ## Example Screenshot
 ```
-![Alt text](/screenshot.jpg?raw=true "StrutsShell - Example Screenshot")
+![Alt text](https://raw.githubusercontent.com/falcon-lnhg/StrutsShell/master/screenshot.jpg "StrutsShell - Example Screenshot")
 ``` 
 ## Developer Team
 
